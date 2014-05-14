@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=DHCP Client Daemon System Tray Applet
+GenericName=DHCP client daemon monitoring and configuration applet
+Icon=network-wired
+Exec=dh-applet
+Terminal=false
+Categories=TrayIcon;Network;Monitor;System;GTK;
+StartupNotify=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+X-GNOME-Autostart-enabled=true
